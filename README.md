@@ -4,9 +4,7 @@ Este repositório é utilizado para armazenar e organizar imagens relacionadas a
 
 As imagens aqui contidas podem ser usadas para:
 
-- Pré-visualizações de layouts
-- Ilustrações para documentações
-- Elementos gráficos para aplicações
-
-Sinta-se à vontade para navegar pelas pastas e conferir as imagens utilizadas em cada projeto.
+- Pré-visualizações de layouts;
+- Ilustrações para documentações;
+- Elementos gráficos para aplicações.
 
